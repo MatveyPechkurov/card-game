@@ -1,0 +1,23 @@
+.container {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: space-evenly;
+  height: 100vh;
+  background-color: #fff;
+}
+.container_button{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-evenly;
+    max-width: 100%;
+    margin-top: 50px;
+    img {
+      width: 180px;
+    }
+}
+.container_cards{
+    display: grid;
+    grid-template-columns: 100px 100px 100px 100px;
+    grid-gap: 0.5rem;
+  }
