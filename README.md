@@ -5,6 +5,7 @@ React + Redux example app
 ## `Stuck technologies`
 
 -React
+
 -Redux
 
 ### `First start`
