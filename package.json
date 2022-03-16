@@ -2,6 +2,7 @@
   "name": "react_todo",
   "version": "0.1.0",
   "private": true,
+  "homepage": "https://matveypechkurov.github.io/card-game/",
   "dependencies": {
     "@ant-design/icons": "^4.7.0",
     "@react-icons/all-files": "^4.1.0",
@@ -30,6 +31,8 @@
     "web-vitals": "^2.1.2"
   },
   "scripts": {
+    "predeploy": "npm run build",
+    "deploy": "gh-pages -d build",
     "start": "react-scripts start",
     "build": "react-scripts build",
     "test": "react-scripts test",
@@ -78,6 +81,7 @@
     "eslint-plugin-react": "^7.28.0",
     "eslint-plugin-react-hooks": "^4.3.0",
     "eslint-webpack-plugin": "^3.1.1",
+    "gh-pages": "^3.2.3",
     "prettier": "^2.5.1",
     "prettier-eslint": "^13.0.0",
     "prettier-eslint-cli": "^5.0.1",
