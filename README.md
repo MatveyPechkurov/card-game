@@ -17,4 +17,4 @@ React + Redux example app
 
 ### `Improvements for my app`
 
--
+Demo https://matveypechkurov.github.io/card-game/
