@@ -15,6 +15,6 @@ React + Redux example app
 3. Open http://localhost:3000 to view app in the browser
 
 
-### `Improvements for my app`
+### `DEMO`
 
-Demo https://matveypechkurov.github.io/card-game/
+https://matveypechkurov.github.io/card-game/
